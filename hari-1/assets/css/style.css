@@ -1,0 +1,24 @@
+nav ul li {
+    float: left;    
+    margin-left: 20px;
+    list-style: none;
+}
+
+.btn {
+    background-color: lightblue;
+    border: none;
+    width: 70px;
+    height: 70px;
+}
+.btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+.heading-text {
+    color: blue;    
+}
+
+.paragraph {
+    color: red;
+}
